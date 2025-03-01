@@ -1,5 +1,16 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´8µ©’˜Õ2J$45fa0532-1cd5-4d70-a36d-06faa894a375
-m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8¶©’˜Õ2J$cf42cb3a-5de9-4c95-a790-2a49f947cce2
-l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8³ÿ˜Õ2J$fd077c7a-a66f-4208-ad20-c26856599842
-l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8‘Ñÿ˜Õ2J$6fe3f466-8874-4135-a68a-4ceb2303d4c5
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úº´8®®šÕ2J$f36a3aa2-4e88-4d30-9b2f-73e8d15ad891
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "hello " 4 times.(£ÆÏÁ8°®šÕ2J$fa6dc4c9-0839-4f2e-afe9-3229c18e5765
+m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8±®šÕ2J$22b92ba6-d8ff-452b-893f-22f86d94f7c2
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$1bd2acfe-5240-4303-9ea5-0ba970a4d096
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$e23ca0d5-df85-4890-a5ec-581fb220fcab
+m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8±®šÕ2J$d7c26cb8-77de-45c2-a511-028477cdc592
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$a63aa4c7-5ad2-4d4a-9f6b-f0e731892977
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$cbc8435b-8849-4839-a009-8b6df8e59d7e
+m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8±®šÕ2J$4e9f9740-ea3b-4995-bb1c-1dffb2f23565
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$93ae8294-d992-4f32-8ba9-5413629f6587
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$d1509ed5-153c-4d67-9b08-7f4b1918a5f4
+m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8±®šÕ2J$540b5492-242f-4317-a667-8fa3c88e5ffc
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$6e44e1e5-0e9e-4e73-9cc1-805e11029935
+l	java:S106"+Replace this use of System.out by a logger.(¸ØïU8±®šÕ2J$75665a1f-d40c-4fe8-9600-2c35ff5f3393
